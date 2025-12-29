@@ -1,0 +1,1503 @@
+    1  sudo apt install bittorrent
+    2  sudo apt update
+    3  sudo apt upgrade
+    4  clean
+    5  clear
+    6  cd downloads
+    7  cd Downloads
+    8  ls
+    9  sudo apt upgrade
+   10  sudo apt install qbittorrent
+   11  sudo apt upgrade
+   12  sudo apt install python
+   13  sudo apt install python3
+   14  clear
+   15  sudo apt install python3-pip
+   16  python3
+   17  pip3
+   18  help
+   19  list
+   20  clear
+   21  ls
+   22  pwd
+   23  mkdir
+   24  ls
+   25  cd Downloads
+   26  mkdir linux_cmd
+   27  ls
+   28  clear
+   29  cd home
+   30  cd pawan
+   31  cd pawan-k
+   32  ls
+   33  cd Downloads
+   34  cd
+   35  cd Downloads linux_cmd
+   36  cd Downloads
+   37  ls
+   38  cd linux_cmd
+   39  cd
+   40  cd Downloads
+   41  cd linux_cmd
+   42  cd Downloads
+   43  cd cd Downloads
+   44  cd
+   45  cd Downloads
+   46  ls
+   47  rmdir linux_cmd
+   48  ls
+   49  mkdir linux_cmd
+   50  cp linux_amd
+   51  cp linux_amd Downloads
+   52  cp linux_cmd Downloads
+   53  xkill
+   54  uname
+   55  sudo snap install video-downloader
+   56  sudo apt update
+   57  ls
+   58  cd Desktop
+   59  ls
+   60  pwd
+   61  cd
+   62  pwd
+   63  cd folder2
+   64  cd Documentary
+   65  cd Documents
+   66  cd folder2
+   67  sudo apt update
+   68  sudo apt upgrade
+   69  sudo apt update
+   70  sudo apt install rkhunter
+   71  sudo rkhunter --update
+   72  sudo nano /etc/rkhunter.conf
+   73  sudo rkhunter --update
+   74  sudo rkhunter --check
+   75  sudo apt upgrade -Y
+   76  sudo apt upgrade -y
+   77  sudo apt update && sudo apt upgrade
+   78  sudo apt install clamav clamav-daemon
+   79  sudo freshclam
+   80  pwd
+   81  sudo clamscan -r /home/pawan-k
+   82  cd Desktop
+   83  >> file.txt
+   84  rm file.txt
+   85  >> clamAV.txt
+   86  sudo systemctl start clamav-daemon
+   87  sudo systemctl status clamav-daemon
+   88  clear
+   89  ls
+   90  cd Desktop
+   91  cd..
+   92  cd ..
+   93  cd softwares
+   94  ls
+   95  sudo apt install Spotube-linux-x86_64.deb
+   96  sudo dpkg -i Spotube-linux-x86_64.deb
+   97  sudo apt-get install -f
+   98  cd ..
+   99  spotube
+  100  sudo apt update
+  101  sudo apt upgrade
+  102  spotube
+  103  sudo snap remove spotube
+  104  dpkg -l | grep spotube
+  105  sudo apt remove spotube
+  106  [200~        sudo apt install flatpak
+  107  usdo apt install flatpak
+  108  sudo apt install flatpak
+  109  sudo apt install gnome-software-plugin-flatpak
+  110  sudo apt remove [200~gnome-software-plugin-flatpak~
+  111  sudo apt remove [200~gnome-software-plugin-flatpak
+  112  sudo apt remove gnome-software-plugin-flatpak
+  113  usdo apt remove flatpak
+  114  sudo apt remove flatpak
+  115  cd Desktop
+  116  >> linux.txt
+  117  exit
+  118  linux.txt
+  119  cd Desktop
+  120  linux.txt
+  121  cd Desktop
+  122  nano linux.txt
+  123  cd Desktop vim linux.txt
+  124  cd Desktop 
+  125  vim linux.txt
+  126  sudo apt install vim
+  127  vim linux.txt
+  128  cd Desktop
+  129  vim linux.txt
+  130  linux.txt
+  131  cat linux.txt
+  132  touch 1.txt
+  133  vim 1.txt
+  134  cat 1.txt
+  135  shred 1.txt
+  136  cat 1.txt
+  137  cd Desktop
+  138  open 1.txt
+  139  rm 1.txt
+  140  opera
+  141  firefox
+  142  cd Desktop
+  143  open clamav.txt
+  144  open clamAV.txt
+  145  cd/
+  146  cd ..
+  147  sudo freshclam
+  148  sudo apt update
+  149  sudo apt upgrade
+  150  sudo apt -r /home/pawan-k/Downloads/nuclear-george-linux-x64.deb
+  151  sudo clamscan -r /home/pawan-k/Downloads/nuclear-george-linux-x64.deb
+  152  sudo clamscan -r /home/pawan-k/softwares/nuclear-george-linux-x64.deb
+  153  sudo apt update
+  154  sudo apt upgrade
+  155  sudo apt install gdebi
+  156  sudo gdebi /home/pawan-k/softwares/nuclear-george-linux-x64.deb
+  157  wget https://github.com/nukeop/nuclear/releases/download/george/nuclear-george-linux-x64.deb
+  158  sudo gdebi nuclear-george-linux-x64.deb
+  159  sudo apt update
+  160  sudo apt install gconf2
+  161  sudo apt remove https://github.com/nukeop/nuclear/releases/download/george/nuclear-george-linux-x64.deb
+  162  sudo apt update
+  163  sudo apt upgrade
+  164  ls
+  165  cd Desktop
+  166  open linux.txt
+  167  ls -l
+  168  ls -al
+  169  cd
+  170  cd Desktop
+  171  cd /
+  172  cd
+  173  cd Desktop
+  174  touch {1..3}
+  175  rm {1..3}
+  176  touch {1..3}.txt
+  177  rm {1..3}
+  178  rm {1..3}.txt
+  179  touch {hi there}.txt
+  180  rm {hi there}.txt
+  181  touch {hi..there}.txt
+  182  rm{hi..there}.txt
+  183  rm {hi..there}.txt
+  184  cd
+  185  ls -l
+  186  ls -al
+  187  cd
+  188  clear
+  189  cd Desktop
+  190  vim linux.txt
+  191  nano linux.txt
+  192  mk bin.txt
+  193  clear
+  194  cat linux
+  195  cat linux.txt
+  196  cp linux.txt Desktop
+  197  open Desktop
+  198  cp linux.txt Downloads
+  199  rm Desktop.txt
+  200  rm Desktop
+  201  rm Downloads
+  202  cp linux.txt 1.txtt
+  203  open 1.txtt
+  204  shred 1.txtt
+  205  rm 1.txtt
+  206  cp linux.txt 1.txt
+  207  mv 1.txt Downloads
+  208  mv Downloads 1.txt
+  209  mv 1.txt ./Downloads
+  210  mv Downloads 1.txt
+  211  mv 1.txt /home/pawan-k/Downloads
+  212  cp linux.txt /home/pawan-k/Downloads
+  213  cd ..
+  214  cd Downloads
+  215  ls -l
+  216  rm 1.txt| rm linux.txt
+  217  ls -l
+  218  cp linux.txt /home/pawan-k/Downloads
+  219  cd ..
+  220  cd Desktop
+  221  cp linux.txt /home/pawan-k/Downloads
+  222  cd ..
+  223  cd Desktop
+  224  cp linux.txt /home/pawan-k/Downloads
+  225  cd ..
+  226  cd Downloads
+  227  ls -l
+  228  ls -al
+  229  touch 1.txt
+  230  ls -al
+  231  rm 1.txt rm linux.txt
+  232  rm 1.txt / rm linux.txt
+  233  rm 1.txt   rm linux.txt
+  234  rm 1.txt | rm linux.txt
+  235  touch {1..3}.txt
+  236  rm 1.txt rm 2.txt
+  237  touch {1..2}.txt
+  238  ls
+  239  rm 1.txt 2.txt 3.txt
+  240  ls -al
+  241  clear
+  242  cd
+  243  cd Desktop
+  244  exit linux.txt
+  245  cd Desktop
+  246  close linux.txt
+  247  whoami
+  248  mkdir removable
+  249  cd removable
+  250  touch{1..3}.txt
+  251  open re,ovable
+  252  open removable
+  253  ls
+  254  touch {1..3}.txt
+  255  ls
+  256  rm -r /home/pawan-k/Desktop/removable/
+  257  mkdir removable
+  258  cd..
+  259  cd ..
+  260  mkdir removable
+  261  touch {1..3}.txt
+  262  rm {1..3}.txt
+  263  cd removable
+  264  touch {1..3}.txt
+  265  cd
+  266  rm -r /home/pawan-k/Desktop/removable/
+  267  mkdir removable
+  268  rmdir removable
+  269  cd desktop
+  270  cd Desktop
+  271  rmdir removable
+  272  mkdir removable
+  273  cd removable
+  274  touch {1..3}.txt
+  275  ls
+  276  cd
+  277  cd Downloads
+  278  rm -r /home/pawan-k/Desktop/removable/
+  279  clear
+  280  cd Desktop
+  281  touch password.txt
+  282  open password.txt
+  283  cd
+  284  open opera
+  285  cd Desktop
+  286  open opera
+  287  cd
+  288  open opera
+  289  open Opera
+  290  open firefox
+  291  sudo apt update
+  292  sudo apt upgrade
+  293  sudo apt upgrade -y
+  294  open opera
+  295  opera
+  296  ssh
+  297  ssh -q
+  298  ssh -Q
+  299  cd Downloads
+  300  ls
+  301  open Sin.City.A.Dame.to.Kill.For.2014.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265[TGx]
+  302  sudo apt update
+  303  sudo apt upgrade
+  304  lsusb
+  305  dmesg| tail
+  306  dmesg | tail
+  307  sudo modprobe -r usbhid && sudo modprobe usbhid
+  308  sudo apt update && sudo apt upgrade usbutils
+  309  opera
+  310  exit
+  311  sudo apt update
+  312  sudo apt upgrade
+  313  sudo apt update
+  314  firefox
+  315  clear cache
+  316  opera
+  317  firefox
+  318  ls
+  319  cd Downloads
+  320  ls
+  321  open WhatsApp Image 2025-12-04 2.jpeg
+  322  open 'WhatsApp Image 2025-12-04 2.jpeg'
+  323  cd
+  324  ls
+  325  ls -al
+  326  touch -t 202512110634.00 flnm.txt
+  327  rm flnm.txt
+  328  touch -t 202512110634.30 flnm.txt
+  329  rm flnm.txt
+  330  touch -t 202512110635.30 flnm.txt
+  331  ps
+  332  cd
+  333  ps
+  334  cal
+  335  cal december 2025
+  336  sudo apt install ncal
+  337  cal december 2025
+  338  df -h
+  339  exit
+  340  cd Desktop
+  341  open linux.txt
+  342  cd
+  343  ssh
+  344  ssh -l
+  345  ssh l
+  346  whoami
+  347  ssh pawan-k
+  348  clean
+  349  clear
+  350  echo
+  351  echo hi
+  352  echo"0.0-blank" > linux.txt
+  353  echo "0.0-blank" > linux.txt
+  354  ls
+  355  rm linux.txt
+  356  ls
+  357  cd Desktop
+  358  echo "0.0-blank" > linux.txt
+  359  open linux.txt
+  360  sudo apt install update
+  361  sudo apt update
+  362  sudo apt upgrade
+  363  opera
+  364  lsblk -f
+  365  sudo fdisk -l
+  366  df -h
+  367  sudo eject /dev/mmcblk0p1
+  368  lsblk -f
+  369  open /dev/mmcblk0p1
+  370  cd dev/mmcblk0p1
+  371  lsblk -f
+  372  sudo fdisk -l
+  373  df -h
+  374  sudo mkdir -p /mnt/sdcard
+  375  df -h
+  376  sudo mkdir -p /mnt/sdcard
+  377  sudo mount /dev/mmcblk0p1 /mnt/sdcard
+  378  cd /mnt/sdcard
+  379  ls -al
+  380  pwd
+  381  touch new.txt
+  382  ls
+  383  open new.txt
+  384  echo 'new file'>new.txt
+  385  nano new.txt
+  386  vim new.txt
+  387  ls -al
+  388  cd
+  389  cd /mnt/sdcard
+  390  cd
+  391  sudo unmount /mnt/sdcard
+  392  sudo umount /mnt/sdcard
+  393  cd /mnt/sdcard
+  394  exit
+  395  cd /mnt/sdcard
+  396  close new.txt
+  397  exit new.txt
+  398  cd /mnt/sdcard
+  399  q
+  400  xdg-open new.txt
+  401  pkill new.txt
+  402  pkill text editor
+  403  pkill --help
+  404  q
+  405  q texteditor
+  406  q text editor
+  407  clear
+  408  cd
+  409  sudo umount /mnt/sdcard
+  410  sudo rmdir /mnt/sdcard
+  411  sudo mkdir -p /mnt/sdcard
+  412  lsblk -f && df -h
+  413  sudo mount /dev/mmcblk0p1 /mnt/sdcard
+  414  cd /mnt/sdcard
+  415  ls -la
+  416  open new.txt
+  417  vim new.txt
+  418  cd 
+  419  sudo rmdir /mnt/sdcard
+  420  umount /mnt/sdcard
+  421  lsblk
+  422  sudo umount /mnt/sdcard
+  423  lsblk
+  424  sudo rmdir /mnt/sdcard
+  425  pwd
+  426  free -h
+  427  sync; echo 1 | sudo tee /proc/sys/vm/drop_caches
+  428  sync; echo 2 | sudo tee /proc/sys/vm/drop_caches
+  429  sync; echo 3 | sudo tee /proc/sys/vm/drop_caches
+  430  sudo swapoff -a && sudo swapon -a
+  431  free -h
+  432  exit
+  433  cd
+  434  ls
+  435  mkdir -p ~/linux-project/src/{app1,app2},logs/{daily, archieve},backups
+  436  ls
+  437  mkdir -p ~/linux-project/src/{app1,app2},logs/{daily,archieve},backups
+  438  rmdir -p ~/linux-project/src/{app1,app2},logs/{daily, archieve},backups
+  439  ls
+  440  rmdir -p ~/linux-project/src/{app1,app2},logs/{daily, archieve},backups
+  441  mkdir -p ~/linux-project/src/{app1,app2},logs/{daily,archieve},backups
+  442  ls
+  443  tree ~/linux-project
+  444  rmdir -p ~/linux-project/src/{app1,app2},logs/{daily,archieve},backups
+  445  ls
+  446  mkdir -p ~/linux-project/{src/{app1,app2},logs/{daily,archieve},backups}
+  447  tree ~/linux-project
+  448  ls -r ~/linux-project
+  449  ls -R ~/linux-project
+  450  cd ~/linux-project
+  451  ls -al
+  452  ls
+  453  ls -R
+  454  ls -p
+  455  ls -R
+  456  touch src/app1/{main.py,config.yaml} logs/daily/{error.log,access.log}
+  457  tree
+  458  cp src/app1/main.py src/app2 && cp -r src/app1 backups/day1
+  459  tree
+  460  ln -s src/app1/main.py src/app2/app_link.py && ln src/app1/config.yaml src/app2/config_hard 
+  461  tree
+  462  cat logs/daily/error.log
+  463  echo "error:pipeline failed">logs/daily/error.log
+  464  cat logs/daily/error.log
+  465  tail -5 logs/daily/error.log
+  466  tail -4 logs/daily/error.log
+  467  tail logs/daily/error.log
+  468  tree
+  469  cat error.log
+  470  cat src/daily/error.log
+  471  cat app1/daily/error.log
+  472  cat logs/daily/error.log
+  473  chmod 755 src/app1 && chmod 644 logs/daily/*
+  474  ls -al
+  475  ls -al src/app1
+  476  ls -al logs/daily/
+  477  ls -al src/
+  478  sudo chown -R ~/linux-project && chmod -R 755 ~/linux-project
+  479  sudo chown -R $USER:$USER ~/linux-project && chmod -R 755 ~/linux-project
+  480  ls -al
+  481  ls -al backups
+  482  ls -al src/
+  483  find . -name "*.py" -type f
+  484  find . -name "*.yaml" -type f
+  485  find.-name"*.yaml" -type f
+  486  find . -name "*.*" -type f
+  487  find --help
+  488  find . -lname "*.*" -type f
+  489  find . -links "*.*" -type f
+  490  find . -name "*.*" -type f
+  491  wc -1 src/app1/main.py
+  492  wc --help
+  493  wc -c src/app1/main.py
+  494  wc -m src/app1/main.py
+  495  wc -l src/app1/main.py
+  496  grep --help
+  497  grep -r "Error" logs/ | sort | uniq -c
+  498  ls -al
+  499  cat logs/daily/
+  500  cat logs/daily
+  501  cat logs/daily/error.log
+  502  grep -r "Error" logs/ |sort| uniq -c
+  503  grep -r "error" logs/ |sort| uniq -c
+  504  echo "Error:pipeline failed" > logs/daily/error.log && echo "Error:disk not found">> logs/daily/error
+  505  cat logs/daily/error.log
+  506  grep -r "error" logs/ |sort| uniq -c
+  507  grep -r "Error" logs/ |sort| uniq -c
+  508  echo "Error:pipeline failed" > logs/daily/error.log && echo "Error:disk not found">> logs/daily/error.log
+  509  grep -r "Error" logs/ |sort| uniq -c
+  510  shred logs/daily/error
+  511  grep -r "Error" logs/ |sort| uniq -c
+  512  du -sh ~/linux-project/* |sort| -hr
+  513  du -sh ~/linux-project/* |sort -hr
+  514  du --help
+  515  du -
+  516  du -sh ~/linux-project/* |sort -h --time
+  517  du -sh ~/linux-project/*  -h --time
+  518  du -sh ~/linux-project/*  -h --time |sort
+  519  du -sh ~/linux-project/*  -h --time 
+  520  du -sh --time ~/linux-project/* |sort -hr 
+  521  tar -czf backups/logs_backup.tar.gz logs/
+  522  ls -al
+  523  ls -al backups/
+  524  gzip -d backups/logs_backup.tar.gz
+  525  ls -al backups/
+  526  tree
+  527  mv backups/day1 backups/archieve
+  528  tree
+  529  rmdir backups/day1
+  530  rm -r logs/daily/error
+  531  tree
+  532  history > logs/command-history.log
+  533  history > logs/command_history.log
+  534  history -a > logs/full_history.log
+  535  sudo apt install tree
+  536  sudo install tree
+  537  sudo
+  538  sudo -l
+  539  sudo apt update
+  540  sudo apt upgrade -y
+  541  cd Desktop
+  542  touch linuxProject1.txt
+  543  open linuxProject1.txt
+  544  vim linuxProject1.txt
+  545  cat linuxProject1.txt
+  546  sudo apt install telegram desktop
+  547  sudo apt install telegram-desktop
+  548  history --time| grep -E -sh -hr
+  549  cd Documents
+  550  ls
+  551  cat linuxProject1.txt
+  552  history | grep -E ~/documents/linux-project && less ~/Documents/linux-project
+  553  cd
+  554  history | grep -E > ~/documents/linux-project/ && less ~/Documents/linux-project
+  555  history | grep -E > ~/Documents/linux-project/ && less ~/Documents/linux-project
+  556  tree ~/Documents/linux-project/
+  557  history | grep -E > ~/Documents/linux-project/logs/command_history.log && less ~/Documents/linux-project/logs/command_history.log
+  558  history > ~/Documents/linux-project/logs/command_history.log && less ~/Documents/linux-project/logs/command_history.log
+  559  history | grep -E rm|cp|mkdir > ~/Documents/linux-project/logs/command_history.log && less ~/Documents/linux-project/logs/command_history.log
+  560  history | grep -E "rm|cp" > ~/Documents/linux-project/logs/command_history.log && less ~/Documents/linux-project/logs/command_history.log
+  561  history | grep -E "rm|cp|mkdir" > ~/Documents/linux-project/logs/command_history.log && less ~/Documents/linux-project/logs/command_history.log
+  562  history | grep -E "log" > ~/Documents/linux-project/logs/command_history.log && less ~/Documents/linux-project/logs/command_history.log
+  563  history | grep -E "log" > ~/Documents/linux-project/logs/command_history.log && cat ~/Documents/linux-project/logs/command_history.log
+  564  clear
+  565  cd linux-project
+  566  cd && mv project-summary.txt > /Pictures
+  567  cd && mv ~/project-summary.txt ~/Pictures
+  568  cd Pictures
+  569  cd
+  570  mv ~/Pictures/project-summary.txt ~/
+  571  cat ~/Documents/linuxProject1.txt
+  572  du --help
+  573  du -sh
+  574  du -sh --time| sort -hr
+  575  du -s --time| sort -hr
+  576  du -sb --time| sort -hr
+  577  du -sc --time| sort -hr
+  578  du -sch --time| sort -hr
+  579  sort --help
+  580  du -sch --time| sort -h
+  581  du -sch --time| sort -r
+  582  du -sch --time| sort -Rr
+  583  du -sch --time| sort -rR
+  584  du -sch --time ~/linux-project/ | sort -rR
+  585  du -sch --time ~/linux-project/* | sort -rR
+  586  du -scb --time ~/linux-project/* | sort -rb
+  587  du -scb --time ~/linux-project/* | sort -ro
+  588  du -scb --time ~/linux-project/* | sort -ro 2.txt
+  589  rm -rR ~/2.txt
+  590  rm --help
+  591  sudo sync
+  592  echo 3| sudo tee /proc/sys/vm/drop_caches
+  593  du -h
+  594  du -ch
+  595  top
+  596  exit
+  597  sudo apt install chrome
+  598  sudo apt install google chrome
+  599  cd linux-project
+  600  history --help
+  601  history > logs/command_history.log && less command_history.log
+  602  tree
+  603  history > logs/command_history.log && less logs/command_history.log
+  604  history/ grep -E  "tar" > logs/command_history.log && less logs/command_history.log
+  605  history grep -E  "tar" > logs/command_history.log && less logs/command_history.log
+  606  history| grep -E  "tar" > logs/command_history.log && less logs/command_history.log
+  607  cd
+  608  touch linux_git.txt
+  609  ls
+  610  mv ~/linux_git.txt ~/Desktop
+  611  tar --help
+  612  cd
+  613  cd linux-project
+  614  tar -czvf backups_$(20/12/2025 )
+  615  tar -czvf backups_$(20/12/2025+%Y%m%d).tar.gz.src/ logs/
+  616  tar -czvf backups_$(date +%Y%m%d).tar.gz.src/ logs/
+  617  tar -czvf "backups_$(date +%Y%m%d)".tar.gz.src/ logs/
+  618  tree
+  619  tar -czvf "backups_$(date +%Y%m%d).tar.gz" src/ logs/
+  620  tree
+  621  tar -tzf backups_*.tar.gz
+  622  mkdir -p ~/backups && mv backup_*tar.gz ~/backups/
+  623  mkdir -p ~/backups && mv backups_*tar.gz ~/backups/
+  624  tree
+  625  tar -czvf "backups_$(date +%Y%m%d).tar.gz" src/ logs/
+  626  tree
+  627  mkdir -p ~/backups && mv backups_*tar.gz ~/backups/
+  628  tree
+  629  tar -czvf "backup_$(date +%Y%m%d).tar.gz" src/ logs/
+  630  tree
+  631  mkdir -p ~/backups && mv backup_*tar.gz ~/backups/
+  632  tree
+  633  cd ~
+  634  ls
+  635  ls backups
+  636  cd linux-project
+  637  rm -rvf logs/daily/* src/app2/*.tmp history.log
+  638  history | tail -20 > ~/backups/backup_report.txt
+  639  cat ~/backups/backup_report.txt
+  640  history | tail -5  ~/backups/backup_report.txt
+  641  history | tail -5 > ~/backups/backup_report.txt
+  642  cat ~/backups/backup_report.txt
+  643  history | tail -25 >> ~/backups/backup_report.txt
+  644  cat ~/backups/backup_report.txt
+  645  sudo chown -R $USER:$USER ~/backups
+  646  cd
+  647  cd backups
+  648  ls -al
+  649  chmod 755 ~/backups && chmod 640 ~/backups/*
+  650  ls -al
+  651  cd
+  652  ls -al
+  653  rm ~/nuclear-george-linux-x64.deb
+  654  ls -al
+  655  cd backups
+  656  ls
+  657  rm backups_20251220.tar.gz
+  658  ls
+  659  cd
+  660  ls -laR ~/backups > ~/linux-project/audit_$(date +%Y%m%d).txt
+  661  cat ~/linux-project/audit_*.txt
+  662  open ~/linux-project/audit_*.txt
+  663  du -sh ~/backups
+  664  cat ~/linux-project/audit_*.txt |grep -i backup
+  665  cat ~/linux-project/audit_*.txt 
+  666  cat ~/linux-project/audit_*.txt |grep -i report
+  667  cd linux-project
+  668  df -h >> report.txt && free -h >> report.txt && uptime -h >> report.txt && whoami >> report && date >> report.txt
+  669  ls
+  670  rm report
+  671  df -h >> report.txt && free -h >> report.txt && uptime -h >> report.txt && whoami >> report.txt && date >> report.txt
+  672  ls
+  673  cat report.txt
+  674  df -h >> report.txt && free -h >> report.txt && uptime >> report.txt && whoami >> report.txt && date >> report.txt
+  675  cat report.txt
+  676  clear report.txt
+  677  > report.txt
+  678  cat report.txt
+  679  df -h >> report.txt && free -h >> report.txt && uptime >> report.txt && whoami >> report.txt && date >> report.txt
+  680  cat report.txt
+  681  du -c >> report.txt && du -sh* >> report.txt && ls -alR >> report.txt
+  682  cat report.txt
+  683  > report.txt
+  684  df -h >> report.txt && free -h >> report.txt && uptime >> report.txt && whoami >> report.txt && date >> report.txt
+  685  du -c >> report.txt && du -sh >> report.txt && ls -alR >> report.txt
+  686  cat report.txt
+  687  > report.txt
+  688  df -h >> report.txt && free -h >> report.txt && uptime >> report.txt && whoami >> report.txt && date >> report.txt
+  689  du -sh >> report.txt && ls -alR >> report.txt
+  690  cat report.txt
+  691  cat report.txt | sort -k1 > final_report_$(date +%Y%m%d).txt && less final_report*.txt
+  692  cd
+  693  exitt
+  694  exit
+  695  cd Desktop
+  696  vim linux_git.txt
+  697  exit
+  698  cd
+  699  rm -?
+  700  rm --?
+  701  rm --help
+  702  ls -l
+  703  ls -al
+  704  du -s
+  705  du -sh
+  706  du -sc
+  707  du -sR
+  708  du --help
+  709  du -sld
+  710  du -dsl
+  711  du -d -5 -sl
+  712  du -d 5 -sl
+  713  du -d 15 -sl
+  714  du -d 1 -sl
+  715  du -d -sl
+  716  du -sl
+  717  du -slT
+  718  du -slt
+  719  du -slH
+  720  exit
+  721  firefox
+  722  cd
+  723  ls
+  724  cd Desktop
+  725  ls
+  726  open linux_git.txt
+  727  vim linux_git.txt
+  728  cd
+  729  sudo apt update
+  730  sudo apt upgrade
+  731  sudo apt install --only-upgrade opera-stable
+  732  snap list| grep opera
+  733  sudo snap refresh opera
+  734  sudo snap install telegram-desktop
+  735  rm -rf ~/.local/share/TelegramDesktop && rm -rf ~/.config/TelegramDesktop
+  736  find ~/.local/share/applications -maxdepth 1 -type f -iname
+  737  find ~/.local/share/applications -maxdepth 1 -type f -iname '*telegram*desktop*.desktop'
+  738  rm ~/.local/share/applications/userapp-Telegram Desktop-*.desktop
+  739  ls Downloads
+  740  rm tsetup.6.3.9.tar.xz
+  741  ls Downloads
+  742  ls ~/Downloads/Telegram
+  743  rm -rf ~/Downloads/Telegram
+  744  ls Downloads
+  745  cd linux-project
+  746  tree
+  747  history > /logs/command_history.log
+  748  history > logs/command_history.log/
+  749  history > logs/command_history.log/ && less logs/command_history.log
+  750  history >> logs/command_history.log/ && less logs/command_history.log
+  751  history > logs/command_history.log
+    1  sudo apt install bittorrent
+    2  sudo apt update
+    3  sudo apt upgrade
+    4  clean
+    5  clear
+    6  cd downloads
+    7  cd Downloads
+    8  ls
+    9  sudo apt upgrade
+   10  sudo apt install qbittorrent
+   11  sudo apt upgrade
+   12  sudo apt install python
+   13  sudo apt install python3
+   14  clear
+   15  sudo apt install python3-pip
+   16  python3
+   17  pip3
+   18  help
+   19  list
+   20  clear
+   21  ls
+   22  pwd
+   23  mkdir
+   24  ls
+   25  cd Downloads
+   26  mkdir linux_cmd
+   27  ls
+   28  clear
+   29  cd home
+   30  cd pawan
+   31  cd pawan-k
+   32  ls
+   33  cd Downloads
+   34  cd
+   35  cd Downloads linux_cmd
+   36  cd Downloads
+   37  ls
+   38  cd linux_cmd
+   39  cd
+   40  cd Downloads
+   41  cd linux_cmd
+   42  cd Downloads
+   43  cd cd Downloads
+   44  cd
+   45  cd Downloads
+   46  ls
+   47  rmdir linux_cmd
+   48  ls
+   49  mkdir linux_cmd
+   50  cp linux_amd
+   51  cp linux_amd Downloads
+   52  cp linux_cmd Downloads
+   53  xkill
+   54  uname
+   55  sudo snap install video-downloader
+   56  sudo apt update
+   57  ls
+   58  cd Desktop
+   59  ls
+   60  pwd
+   61  cd
+   62  pwd
+   63  cd folder2
+   64  cd Documentary
+   65  cd Documents
+   66  cd folder2
+   67  sudo apt update
+   68  sudo apt upgrade
+   69  sudo apt update
+   70  sudo apt install rkhunter
+   71  sudo rkhunter --update
+   72  sudo nano /etc/rkhunter.conf
+   73  sudo rkhunter --update
+   74  sudo rkhunter --check
+   75  sudo apt upgrade -Y
+   76  sudo apt upgrade -y
+   77  sudo apt update && sudo apt upgrade
+   78  sudo apt install clamav clamav-daemon
+   79  sudo freshclam
+   80  pwd
+   81  sudo clamscan -r /home/pawan-k
+   82  cd Desktop
+   83  >> file.txt
+   84  rm file.txt
+   85  >> clamAV.txt
+   86  sudo systemctl start clamav-daemon
+   87  sudo systemctl status clamav-daemon
+   88  clear
+   89  ls
+   90  cd Desktop
+   91  cd..
+   92  cd ..
+   93  cd softwares
+   94  ls
+   95  sudo apt install Spotube-linux-x86_64.deb
+   96  sudo dpkg -i Spotube-linux-x86_64.deb
+   97  sudo apt-get install -f
+   98  cd ..
+   99  spotube
+  100  sudo apt update
+  101  sudo apt upgrade
+  102  spotube
+  103  sudo snap remove spotube
+  104  dpkg -l | grep spotube
+  105  sudo apt remove spotube
+  106  [200~        sudo apt install flatpak
+  107  usdo apt install flatpak
+  108  sudo apt install flatpak
+  109  sudo apt install gnome-software-plugin-flatpak
+  110  sudo apt remove [200~gnome-software-plugin-flatpak~
+  111  sudo apt remove [200~gnome-software-plugin-flatpak
+  112  sudo apt remove gnome-software-plugin-flatpak
+  113  usdo apt remove flatpak
+  114  sudo apt remove flatpak
+  115  cd Desktop
+  116  >> linux.txt
+  117  exit
+  118  linux.txt
+  119  cd Desktop
+  120  linux.txt
+  121  cd Desktop
+  122  nano linux.txt
+  123  cd Desktop vim linux.txt
+  124  cd Desktop 
+  125  vim linux.txt
+  126  sudo apt install vim
+  127  vim linux.txt
+  128  cd Desktop
+  129  vim linux.txt
+  130  linux.txt
+  131  cat linux.txt
+  132  touch 1.txt
+  133  vim 1.txt
+  134  cat 1.txt
+  135  shred 1.txt
+  136  cat 1.txt
+  137  cd Desktop
+  138  open 1.txt
+  139  rm 1.txt
+  140  opera
+  141  firefox
+  142  cd Desktop
+  143  open clamav.txt
+  144  open clamAV.txt
+  145  cd/
+  146  cd ..
+  147  sudo freshclam
+  148  sudo apt update
+  149  sudo apt upgrade
+  150  sudo apt -r /home/pawan-k/Downloads/nuclear-george-linux-x64.deb
+  151  sudo clamscan -r /home/pawan-k/Downloads/nuclear-george-linux-x64.deb
+  152  sudo clamscan -r /home/pawan-k/softwares/nuclear-george-linux-x64.deb
+  153  sudo apt update
+  154  sudo apt upgrade
+  155  sudo apt install gdebi
+  156  sudo gdebi /home/pawan-k/softwares/nuclear-george-linux-x64.deb
+  157  wget https://github.com/nukeop/nuclear/releases/download/george/nuclear-george-linux-x64.deb
+  158  sudo gdebi nuclear-george-linux-x64.deb
+  159  sudo apt update
+  160  sudo apt install gconf2
+  161  sudo apt remove https://github.com/nukeop/nuclear/releases/download/george/nuclear-george-linux-x64.deb
+  162  sudo apt update
+  163  sudo apt upgrade
+  164  ls
+  165  cd Desktop
+  166  open linux.txt
+  167  ls -l
+  168  ls -al
+  169  cd
+  170  cd Desktop
+  171  cd /
+  172  cd
+  173  cd Desktop
+  174  touch {1..3}
+  175  rm {1..3}
+  176  touch {1..3}.txt
+  177  rm {1..3}
+  178  rm {1..3}.txt
+  179  touch {hi there}.txt
+  180  rm {hi there}.txt
+  181  touch {hi..there}.txt
+  182  rm{hi..there}.txt
+  183  rm {hi..there}.txt
+  184  cd
+  185  ls -l
+  186  ls -al
+  187  cd
+  188  clear
+  189  cd Desktop
+  190  vim linux.txt
+  191  nano linux.txt
+  192  mk bin.txt
+  193  clear
+  194  cat linux
+  195  cat linux.txt
+  196  cp linux.txt Desktop
+  197  open Desktop
+  198  cp linux.txt Downloads
+  199  rm Desktop.txt
+  200  rm Desktop
+  201  rm Downloads
+  202  cp linux.txt 1.txtt
+  203  open 1.txtt
+  204  shred 1.txtt
+  205  rm 1.txtt
+  206  cp linux.txt 1.txt
+  207  mv 1.txt Downloads
+  208  mv Downloads 1.txt
+  209  mv 1.txt ./Downloads
+  210  mv Downloads 1.txt
+  211  mv 1.txt /home/pawan-k/Downloads
+  212  cp linux.txt /home/pawan-k/Downloads
+  213  cd ..
+  214  cd Downloads
+  215  ls -l
+  216  rm 1.txt| rm linux.txt
+  217  ls -l
+  218  cp linux.txt /home/pawan-k/Downloads
+  219  cd ..
+  220  cd Desktop
+  221  cp linux.txt /home/pawan-k/Downloads
+  222  cd ..
+  223  cd Desktop
+  224  cp linux.txt /home/pawan-k/Downloads
+  225  cd ..
+  226  cd Downloads
+  227  ls -l
+  228  ls -al
+  229  touch 1.txt
+  230  ls -al
+  231  rm 1.txt rm linux.txt
+  232  rm 1.txt / rm linux.txt
+  233  rm 1.txt   rm linux.txt
+  234  rm 1.txt | rm linux.txt
+  235  touch {1..3}.txt
+  236  rm 1.txt rm 2.txt
+  237  touch {1..2}.txt
+  238  ls
+  239  rm 1.txt 2.txt 3.txt
+  240  ls -al
+  241  clear
+  242  cd
+  243  cd Desktop
+  244  exit linux.txt
+  245  cd Desktop
+  246  close linux.txt
+  247  whoami
+  248  mkdir removable
+  249  cd removable
+  250  touch{1..3}.txt
+  251  open re,ovable
+  252  open removable
+  253  ls
+  254  touch {1..3}.txt
+  255  ls
+  256  rm -r /home/pawan-k/Desktop/removable/
+  257  mkdir removable
+  258  cd..
+  259  cd ..
+  260  mkdir removable
+  261  touch {1..3}.txt
+  262  rm {1..3}.txt
+  263  cd removable
+  264  touch {1..3}.txt
+  265  cd
+  266  rm -r /home/pawan-k/Desktop/removable/
+  267  mkdir removable
+  268  rmdir removable
+  269  cd desktop
+  270  cd Desktop
+  271  rmdir removable
+  272  mkdir removable
+  273  cd removable
+  274  touch {1..3}.txt
+  275  ls
+  276  cd
+  277  cd Downloads
+  278  rm -r /home/pawan-k/Desktop/removable/
+  279  clear
+  280  cd Desktop
+  281  touch password.txt
+  282  open password.txt
+  283  cd
+  284  open opera
+  285  cd Desktop
+  286  open opera
+  287  cd
+  288  open opera
+  289  open Opera
+  290  open firefox
+  291  sudo apt update
+  292  sudo apt upgrade
+  293  sudo apt upgrade -y
+  294  open opera
+  295  opera
+  296  ssh
+  297  ssh -q
+  298  ssh -Q
+  299  cd Downloads
+  300  ls
+  301  open Sin.City.A.Dame.to.Kill.For.2014.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265[TGx]
+  302  sudo apt update
+  303  sudo apt upgrade
+  304  lsusb
+  305  dmesg| tail
+  306  dmesg | tail
+  307  sudo modprobe -r usbhid && sudo modprobe usbhid
+  308  sudo apt update && sudo apt upgrade usbutils
+  309  opera
+  310  exit
+  311  sudo apt update
+  312  sudo apt upgrade
+  313  sudo apt update
+  314  firefox
+  315  clear cache
+  316  opera
+  317  firefox
+  318  ls
+  319  cd Downloads
+  320  ls
+  321  open WhatsApp Image 2025-12-04 2.jpeg
+  322  open 'WhatsApp Image 2025-12-04 2.jpeg'
+  323  cd
+  324  ls
+  325  ls -al
+  326  touch -t 202512110634.00 flnm.txt
+  327  rm flnm.txt
+  328  touch -t 202512110634.30 flnm.txt
+  329  rm flnm.txt
+  330  touch -t 202512110635.30 flnm.txt
+  331  ps
+  332  cd
+  333  ps
+  334  cal
+  335  cal december 2025
+  336  sudo apt install ncal
+  337  cal december 2025
+  338  df -h
+  339  exit
+  340  cd Desktop
+  341  open linux.txt
+  342  cd
+  343  ssh
+  344  ssh -l
+  345  ssh l
+  346  whoami
+  347  ssh pawan-k
+  348  clean
+  349  clear
+  350  echo
+  351  echo hi
+  352  echo"0.0-blank" > linux.txt
+  353  echo "0.0-blank" > linux.txt
+  354  ls
+  355  rm linux.txt
+  356  ls
+  357  cd Desktop
+  358  echo "0.0-blank" > linux.txt
+  359  open linux.txt
+  360  sudo apt install update
+  361  sudo apt update
+  362  sudo apt upgrade
+  363  opera
+  364  lsblk -f
+  365  sudo fdisk -l
+  366  df -h
+  367  sudo eject /dev/mmcblk0p1
+  368  lsblk -f
+  369  open /dev/mmcblk0p1
+  370  cd dev/mmcblk0p1
+  371  lsblk -f
+  372  sudo fdisk -l
+  373  df -h
+  374  sudo mkdir -p /mnt/sdcard
+  375  df -h
+  376  sudo mkdir -p /mnt/sdcard
+  377  sudo mount /dev/mmcblk0p1 /mnt/sdcard
+  378  cd /mnt/sdcard
+  379  ls -al
+  380  pwd
+  381  touch new.txt
+  382  ls
+  383  open new.txt
+  384  echo 'new file'>new.txt
+  385  nano new.txt
+  386  vim new.txt
+  387  ls -al
+  388  cd
+  389  cd /mnt/sdcard
+  390  cd
+  391  sudo unmount /mnt/sdcard
+  392  sudo umount /mnt/sdcard
+  393  cd /mnt/sdcard
+  394  exit
+  395  cd /mnt/sdcard
+  396  close new.txt
+  397  exit new.txt
+  398  cd /mnt/sdcard
+  399  q
+  400  xdg-open new.txt
+  401  pkill new.txt
+  402  pkill text editor
+  403  pkill --help
+  404  q
+  405  q texteditor
+  406  q text editor
+  407  clear
+  408  cd
+  409  sudo umount /mnt/sdcard
+  410  sudo rmdir /mnt/sdcard
+  411  sudo mkdir -p /mnt/sdcard
+  412  lsblk -f && df -h
+  413  sudo mount /dev/mmcblk0p1 /mnt/sdcard
+  414  cd /mnt/sdcard
+  415  ls -la
+  416  open new.txt
+  417  vim new.txt
+  418  cd 
+  419  sudo rmdir /mnt/sdcard
+  420  umount /mnt/sdcard
+  421  lsblk
+  422  sudo umount /mnt/sdcard
+  423  lsblk
+  424  sudo rmdir /mnt/sdcard
+  425  pwd
+  426  free -h
+  427  sync; echo 1 | sudo tee /proc/sys/vm/drop_caches
+  428  sync; echo 2 | sudo tee /proc/sys/vm/drop_caches
+  429  sync; echo 3 | sudo tee /proc/sys/vm/drop_caches
+  430  sudo swapoff -a && sudo swapon -a
+  431  free -h
+  432  exit
+  433  cd
+  434  ls
+  435  mkdir -p ~/linux-project/src/{app1,app2},logs/{daily, archieve},backups
+  436  ls
+  437  mkdir -p ~/linux-project/src/{app1,app2},logs/{daily,archieve},backups
+  438  rmdir -p ~/linux-project/src/{app1,app2},logs/{daily, archieve},backups
+  439  ls
+  440  rmdir -p ~/linux-project/src/{app1,app2},logs/{daily, archieve},backups
+  441  mkdir -p ~/linux-project/src/{app1,app2},logs/{daily,archieve},backups
+  442  ls
+  443  tree ~/linux-project
+  444  rmdir -p ~/linux-project/src/{app1,app2},logs/{daily,archieve},backups
+  445  ls
+  446  mkdir -p ~/linux-project/{src/{app1,app2},logs/{daily,archieve},backups}
+  447  tree ~/linux-project
+  448  ls -r ~/linux-project
+  449  ls -R ~/linux-project
+  450  cd ~/linux-project
+  451  ls -al
+  452  ls
+  453  ls -R
+  454  ls -p
+  455  ls -R
+  456  touch src/app1/{main.py,config.yaml} logs/daily/{error.log,access.log}
+  457  tree
+  458  cp src/app1/main.py src/app2 && cp -r src/app1 backups/day1
+  459  tree
+  460  ln -s src/app1/main.py src/app2/app_link.py && ln src/app1/config.yaml src/app2/config_hard 
+  461  tree
+  462  cat logs/daily/error.log
+  463  echo "error:pipeline failed">logs/daily/error.log
+  464  cat logs/daily/error.log
+  465  tail -5 logs/daily/error.log
+  466  tail -4 logs/daily/error.log
+  467  tail logs/daily/error.log
+  468  tree
+  469  cat error.log
+  470  cat src/daily/error.log
+  471  cat app1/daily/error.log
+  472  cat logs/daily/error.log
+  473  chmod 755 src/app1 && chmod 644 logs/daily/*
+  474  ls -al
+  475  ls -al src/app1
+  476  ls -al logs/daily/
+  477  ls -al src/
+  478  sudo chown -R ~/linux-project && chmod -R 755 ~/linux-project
+  479  sudo chown -R $USER:$USER ~/linux-project && chmod -R 755 ~/linux-project
+  480  ls -al
+  481  ls -al backups
+  482  ls -al src/
+  483  find . -name "*.py" -type f
+  484  find . -name "*.yaml" -type f
+  485  find.-name"*.yaml" -type f
+  486  find . -name "*.*" -type f
+  487  find --help
+  488  find . -lname "*.*" -type f
+  489  find . -links "*.*" -type f
+  490  find . -name "*.*" -type f
+  491  wc -1 src/app1/main.py
+  492  wc --help
+  493  wc -c src/app1/main.py
+  494  wc -m src/app1/main.py
+  495  wc -l src/app1/main.py
+  496  grep --help
+  497  grep -r "Error" logs/ | sort | uniq -c
+  498  ls -al
+  499  cat logs/daily/
+  500  cat logs/daily
+  501  cat logs/daily/error.log
+  502  grep -r "Error" logs/ |sort| uniq -c
+  503  grep -r "error" logs/ |sort| uniq -c
+  504  echo "Error:pipeline failed" > logs/daily/error.log && echo "Error:disk not found">> logs/daily/error
+  505  cat logs/daily/error.log
+  506  grep -r "error" logs/ |sort| uniq -c
+  507  grep -r "Error" logs/ |sort| uniq -c
+  508  echo "Error:pipeline failed" > logs/daily/error.log && echo "Error:disk not found">> logs/daily/error.log
+  509  grep -r "Error" logs/ |sort| uniq -c
+  510  shred logs/daily/error
+  511  grep -r "Error" logs/ |sort| uniq -c
+  512  du -sh ~/linux-project/* |sort| -hr
+  513  du -sh ~/linux-project/* |sort -hr
+  514  du --help
+  515  du -
+  516  du -sh ~/linux-project/* |sort -h --time
+  517  du -sh ~/linux-project/*  -h --time
+  518  du -sh ~/linux-project/*  -h --time |sort
+  519  du -sh ~/linux-project/*  -h --time 
+  520  du -sh --time ~/linux-project/* |sort -hr 
+  521  tar -czf backups/logs_backup.tar.gz logs/
+  522  ls -al
+  523  ls -al backups/
+  524  gzip -d backups/logs_backup.tar.gz
+  525  ls -al backups/
+  526  tree
+  527  mv backups/day1 backups/archieve
+  528  tree
+  529  rmdir backups/day1
+  530  rm -r logs/daily/error
+  531  tree
+  532  history > logs/command-history.log
+  533  history > logs/command_history.log
+  534  history -a > logs/full_history.log
+  535  sudo apt install tree
+  536  sudo install tree
+  537  sudo
+  538  sudo -l
+  539  sudo apt update
+  540  sudo apt upgrade -y
+  541  cd Desktop
+  542  touch linuxProject1.txt
+  543  open linuxProject1.txt
+  544  vim linuxProject1.txt
+  545  cat linuxProject1.txt
+  546  sudo apt install telegram desktop
+  547  sudo apt install telegram-desktop
+  548  history --time| grep -E -sh -hr
+  549  cd Documents
+  550  ls
+  551  cat linuxProject1.txt
+  552  history | grep -E ~/documents/linux-project && less ~/Documents/linux-project
+  553  cd
+  554  history | grep -E > ~/documents/linux-project/ && less ~/Documents/linux-project
+  555  history | grep -E > ~/Documents/linux-project/ && less ~/Documents/linux-project
+  556  tree ~/Documents/linux-project/
+  557  history | grep -E > ~/Documents/linux-project/logs/command_history.log && less ~/Documents/linux-project/logs/command_history.log
+  558  history > ~/Documents/linux-project/logs/command_history.log && less ~/Documents/linux-project/logs/command_history.log
+  559  history | grep -E rm|cp|mkdir > ~/Documents/linux-project/logs/command_history.log && less ~/Documents/linux-project/logs/command_history.log
+  560  history | grep -E "rm|cp" > ~/Documents/linux-project/logs/command_history.log && less ~/Documents/linux-project/logs/command_history.log
+  561  history | grep -E "rm|cp|mkdir" > ~/Documents/linux-project/logs/command_history.log && less ~/Documents/linux-project/logs/command_history.log
+  562  history | grep -E "log" > ~/Documents/linux-project/logs/command_history.log && less ~/Documents/linux-project/logs/command_history.log
+  563  history | grep -E "log" > ~/Documents/linux-project/logs/command_history.log && cat ~/Documents/linux-project/logs/command_history.log
+  564  clear
+  565  cd linux-project
+  566  cd && mv project-summary.txt > /Pictures
+  567  cd && mv ~/project-summary.txt ~/Pictures
+  568  cd Pictures
+  569  cd
+  570  mv ~/Pictures/project-summary.txt ~/
+  571  cat ~/Documents/linuxProject1.txt
+  572  du --help
+  573  du -sh
+  574  du -sh --time| sort -hr
+  575  du -s --time| sort -hr
+  576  du -sb --time| sort -hr
+  577  du -sc --time| sort -hr
+  578  du -sch --time| sort -hr
+  579  sort --help
+  580  du -sch --time| sort -h
+  581  du -sch --time| sort -r
+  582  du -sch --time| sort -Rr
+  583  du -sch --time| sort -rR
+  584  du -sch --time ~/linux-project/ | sort -rR
+  585  du -sch --time ~/linux-project/* | sort -rR
+  586  du -scb --time ~/linux-project/* | sort -rb
+  587  du -scb --time ~/linux-project/* | sort -ro
+  588  du -scb --time ~/linux-project/* | sort -ro 2.txt
+  589  rm -rR ~/2.txt
+  590  rm --help
+  591  sudo sync
+  592  echo 3| sudo tee /proc/sys/vm/drop_caches
+  593  du -h
+  594  du -ch
+  595  top
+  596  exit
+  597  sudo apt install chrome
+  598  sudo apt install google chrome
+  599  cd linux-project
+  600  history --help
+  601  history > logs/command_history.log && less command_history.log
+  602  tree
+  603  history > logs/command_history.log && less logs/command_history.log
+  604  history/ grep -E  "tar" > logs/command_history.log && less logs/command_history.log
+  605  history grep -E  "tar" > logs/command_history.log && less logs/command_history.log
+  606  history| grep -E  "tar" > logs/command_history.log && less logs/command_history.log
+  607  cd
+  608  touch linux_git.txt
+  609  ls
+  610  mv ~/linux_git.txt ~/Desktop
+  611  tar --help
+  612  cd
+  613  cd linux-project
+  614  tar -czvf backups_$(20/12/2025 )
+  615  tar -czvf backups_$(20/12/2025+%Y%m%d).tar.gz.src/ logs/
+  616  tar -czvf backups_$(date +%Y%m%d).tar.gz.src/ logs/
+  617  tar -czvf "backups_$(date +%Y%m%d)".tar.gz.src/ logs/
+  618  tree
+  619  tar -czvf "backups_$(date +%Y%m%d).tar.gz" src/ logs/
+  620  tree
+  621  tar -tzf backups_*.tar.gz
+  622  mkdir -p ~/backups && mv backup_*tar.gz ~/backups/
+  623  mkdir -p ~/backups && mv backups_*tar.gz ~/backups/
+  624  tree
+  625  tar -czvf "backups_$(date +%Y%m%d).tar.gz" src/ logs/
+  626  tree
+  627  mkdir -p ~/backups && mv backups_*tar.gz ~/backups/
+  628  tree
+  629  tar -czvf "backup_$(date +%Y%m%d).tar.gz" src/ logs/
+  630  tree
+  631  mkdir -p ~/backups && mv backup_*tar.gz ~/backups/
+  632  tree
+  633  cd ~
+  634  ls
+  635  ls backups
+  636  cd linux-project
+  637  rm -rvf logs/daily/* src/app2/*.tmp history.log
+  638  history | tail -20 > ~/backups/backup_report.txt
+  639  cat ~/backups/backup_report.txt
+  640  history | tail -5  ~/backups/backup_report.txt
+  641  history | tail -5 > ~/backups/backup_report.txt
+  642  cat ~/backups/backup_report.txt
+  643  history | tail -25 >> ~/backups/backup_report.txt
+  644  cat ~/backups/backup_report.txt
+  645  sudo chown -R $USER:$USER ~/backups
+  646  cd
+  647  cd backups
+  648  ls -al
+  649  chmod 755 ~/backups && chmod 640 ~/backups/*
+  650  ls -al
+  651  cd
+  652  ls -al
+  653  rm ~/nuclear-george-linux-x64.deb
+  654  ls -al
+  655  cd backups
+  656  ls
+  657  rm backups_20251220.tar.gz
+  658  ls
+  659  cd
+  660  ls -laR ~/backups > ~/linux-project/audit_$(date +%Y%m%d).txt
+  661  cat ~/linux-project/audit_*.txt
+  662  open ~/linux-project/audit_*.txt
+  663  du -sh ~/backups
+  664  cat ~/linux-project/audit_*.txt |grep -i backup
+  665  cat ~/linux-project/audit_*.txt 
+  666  cat ~/linux-project/audit_*.txt |grep -i report
+  667  cd linux-project
+  668  df -h >> report.txt && free -h >> report.txt && uptime -h >> report.txt && whoami >> report && date >> report.txt
+  669  ls
+  670  rm report
+  671  df -h >> report.txt && free -h >> report.txt && uptime -h >> report.txt && whoami >> report.txt && date >> report.txt
+  672  ls
+  673  cat report.txt
+  674  df -h >> report.txt && free -h >> report.txt && uptime >> report.txt && whoami >> report.txt && date >> report.txt
+  675  cat report.txt
+  676  clear report.txt
+  677  > report.txt
+  678  cat report.txt
+  679  df -h >> report.txt && free -h >> report.txt && uptime >> report.txt && whoami >> report.txt && date >> report.txt
+  680  cat report.txt
+  681  du -c >> report.txt && du -sh* >> report.txt && ls -alR >> report.txt
+  682  cat report.txt
+  683  > report.txt
+  684  df -h >> report.txt && free -h >> report.txt && uptime >> report.txt && whoami >> report.txt && date >> report.txt
+  685  du -c >> report.txt && du -sh >> report.txt && ls -alR >> report.txt
+  686  cat report.txt
+  687  > report.txt
+  688  df -h >> report.txt && free -h >> report.txt && uptime >> report.txt && whoami >> report.txt && date >> report.txt
+  689  du -sh >> report.txt && ls -alR >> report.txt
+  690  cat report.txt
+  691  cat report.txt | sort -k1 > final_report_$(date +%Y%m%d).txt && less final_report*.txt
+  692  cd
+  693  exitt
+  694  exit
+  695  cd Desktop
+  696  vim linux_git.txt
+  697  exit
+  698  cd
+  699  rm -?
+  700  rm --?
+  701  rm --help
+  702  ls -l
+  703  ls -al
+  704  du -s
+  705  du -sh
+  706  du -sc
+  707  du -sR
+  708  du --help
+  709  du -sld
+  710  du -dsl
+  711  du -d -5 -sl
+  712  du -d 5 -sl
+  713  du -d 15 -sl
+  714  du -d 1 -sl
+  715  du -d -sl
+  716  du -sl
+  717  du -slT
+  718  du -slt
+  719  du -slH
+  720  exit
+  721  firefox
+  722  cd
+  723  ls
+  724  cd Desktop
+  725  ls
+  726  open linux_git.txt
+  727  vim linux_git.txt
+  728  cd
+  729  sudo apt update
+  730  sudo apt upgrade
+  731  sudo apt install --only-upgrade opera-stable
+  732  snap list| grep opera
+  733  sudo snap refresh opera
+  734  sudo snap install telegram-desktop
+  735  rm -rf ~/.local/share/TelegramDesktop && rm -rf ~/.config/TelegramDesktop
+  736  find ~/.local/share/applications -maxdepth 1 -type f -iname
+  737  find ~/.local/share/applications -maxdepth 1 -type f -iname '*telegram*desktop*.desktop'
+  738  rm ~/.local/share/applications/userapp-Telegram Desktop-*.desktop
+  739  ls Downloads
+  740  rm tsetup.6.3.9.tar.xz
+  741  ls Downloads
+  742  ls ~/Downloads/Telegram
+  743  rm -rf ~/Downloads/Telegram
+  744  ls Downloads
+  745  cd linux-project
+  746  tree
+  747  history > /logs/command_history.log
+  748  history > logs/command_history.log/
+  749  history > logs/command_history.log/ && less logs/command_history.log
+  750  history >> logs/command_history.log/ && less logs/command_history.log
+  751  history > logs/command_history.log
+  752  history >> logs/command_history.log && less logs/command_history.log

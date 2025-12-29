@@ -1,0 +1,79 @@
+
+
+
+
+
+
+
+
+.:
+ 05:03:28 up  5:31,  1 user,  load average: 0.94, 2.66, 3.29
+60K	.
+./backups:
+./backups/archieve:
+/dev/sda1       1.8T  684G  1.1T  39% /media/pawan-k/New Volume2
+/dev/sdb1        96M   37M   60M  39% /boot/efi
+/dev/sdb5        31G   22G  7.9G  74% /
+drwxr-x--- 19 pawan-k pawan-k 4096 Dec 20 03:44 ..
+drwxr-xr-x 2 pawan-k pawan-k 4096 Dec 16 10:53 .
+drwxr-xr-x 2 pawan-k pawan-k 4096 Dec 16 10:53 archieve
+drwxr-xr-x 2 pawan-k pawan-k 4096 Dec 16 13:02 .
+drwxr-xr-x 2 pawan-k pawan-k 4096 Dec 16 13:02 app1
+drwxr-xr-x 2 pawan-k pawan-k 4096 Dec 16 13:08 .
+drwxr-xr-x 2 pawan-k pawan-k  4096 Dec 16 13:08 archieve
+drwxr-xr-x 2 pawan-k pawan-k 4096 Dec 16 13:16 .
+drwxr-xr-x 2 pawan-k pawan-k 4096 Dec 16 13:16 app2
+drwxr-xr-x 2 pawan-k pawan-k 4096 Dec 20 03:00 .
+drwxr-xr-x 2 pawan-k pawan-k 4096 Dec 20 03:00 daily
+drwxr-xr-x 3 pawan-k pawan-k  4096 Dec 16 16:36 .
+drwxr-xr-x 3 pawan-k pawan-k 4096 Dec 16 16:36 ..
+drwxr-xr-x  3 pawan-k pawan-k 4096 Dec 16 16:36 backups
+drwxr-xr-x 4 pawan-k pawan-k 4096 Dec 16 10:53 .
+drwxr-xr-x 4 pawan-k pawan-k 4096 Dec 16 10:53 ..
+drwxr-xr-x 4 pawan-k pawan-k 4096 Dec 16 10:53 ..
+drwxr-xr-x  4 pawan-k pawan-k 4096 Dec 16 10:53 src
+drwxr-xr-x 4 pawan-k pawan-k 4096 Dec 16 17:06 .
+drwxr-xr-x 4 pawan-k pawan-k 4096 Dec 16 17:06 ..
+drwxr-xr-x 4 pawan-k pawan-k 4096 Dec 16 17:06 ..
+drwxr-xr-x  4 pawan-k pawan-k 4096 Dec 16 17:06 logs
+drwxr-xr-x  5 pawan-k pawan-k 4096 Dec 20 04:25 .
+drwxr-xr-x 5 pawan-k pawan-k  4096 Dec 20 04:25 ..
+drwxr-xr-x 5 pawan-k pawan-k 4096 Dec 20 04:25 ..
+drwxr-xr-x 5 pawan-k pawan-k 4096 Dec 20 04:25 ..
+efivarfs        100K   30K   66K  32% /sys/firmware/efi/efivars
+Filesystem      Size  Used Avail Use% Mounted on
+./logs:
+./logs/archieve:
+./logs/daily:
+lrwxrwxrwx 1 pawan-k pawan-k   16 Dec 17 19:31 app_link.py -> src/app1/main.py
+Mem:           7.7Gi       4.4Gi       1.1Gi       514Mi       1.9Gi       3.2Gi
+pawan-k
+-rw-rw-r-- 1 pawan-k pawan-k 10240 Dec 16 16:20 logs_backup.tar
+-rw-rw-r--  1 pawan-k pawan-k  270 Dec 20 03:42 audit_20251220.txt
+-rw-rw-r-- 1 pawan-k pawan-k  427 Dec 19 23:51 command_history.log
+-rw-rw-r--  1 pawan-k pawan-k  771 Dec 20 05:03 report.txt
+-rwxr-xr-x 1 pawan-k pawan-k    0 Dec 16 13:02 config_hard
+-rwxr-xr-x 1 pawan-k pawan-k    0 Dec 16 13:02 config.yaml
+-rwxr-xr-x 1 pawan-k pawan-k    0 Dec 16 13:02 main.py
+-rwxr-xr-x 1 pawan-k pawan-k    0 Dec 16 13:08 config.yaml
+-rwxr-xr-x 1 pawan-k pawan-k    0 Dec 16 13:08 main.py
+-rwxr-xr-x 1 pawan-k pawan-k    0 Dec 16 13:08 main.py
+Sat Dec 20 05:03:28 AM IST 2025
+./src:
+./src/app1:
+./src/app2:
+Swap:          4.0Gi        52Mi       3.9Gi
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           785M  140K  785M   1% /run/user/1000
+tmpfs           785M  2.2M  783M   1% /run
+total 16
+total 20
+total 24
+total 28
+total 8
+total 8
+total 8
+total 8
+total 8
+               total        used        free      shared  buff/cache   available

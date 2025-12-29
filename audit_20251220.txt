@@ -1,0 +1,6 @@
+/home/pawan-k/backups:
+total 16
+drwxr-xr-x  2 pawan-k pawan-k 4096 Dec 20 03:34 .
+drwxr-x--- 19 pawan-k pawan-k 4096 Dec 20 03:33 ..
+-rw-r-----  1 pawan-k pawan-k  595 Dec 20 02:50 backup_20251220.tar.gz
+-rw-r-----  1 pawan-k pawan-k 1199 Dec 20 03:08 backup_report.txt
