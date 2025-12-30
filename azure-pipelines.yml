@@ -1,0 +1,22 @@
+trigger:
+- master
+
+pool:
+  vmImage : ubuntu-latest
+
+steps:
+- checkout: self
+  persistCreadentials: true
+
+- scripts:
+  echo "Security scan: check permissions"
+  find . -type f -not -perm 644 -exec ls -al {} ; 2>/dev/null || true
+  echo "Disk audit from Linux project"
+  cat final_report_*.txt | head -10 displayName: 'Run Linux Security Audit'
+
+- task : PublishPipelineArtifact@1
+  inputs: 
+    targetPath: '$(Pipeline.Workspace)/final_report_*.txt'
+    artifact: 'SecurityReports'
+    publishLocation: 'pipeline'
+  displayName: 'Publish Audit Reports'
