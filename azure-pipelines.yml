@@ -1,24 +1,23 @@
 trigger:
-- master
+- main
 
 pool:
   vmImage: ubuntu-latest
 
 steps:
 - checkout: self
+  persistCredentials: true  # Secure repo access
 
 - script: |
-    echo "##[section]Linux DevOps Security Pipeline"
-    pwd
-    ls -la
-    du -sh * | sort -hr
-    echo "=== Backups ==="
-    ls -lh backups/
-    echo "Pipeline SUCCESS!"
-  displayName: 'Security Audit'
+    echo "Security Scan: Check permissions"
+    find . -type f -not -perm 644 -exec ls -la {} ; 2>/dev/null || true
+    echo "Disk audit from Linux project:"
+    cat final_report_*.txt | head -10
+  displayName: 'Run Linux Security Audit'
 
 - task: PublishPipelineArtifact@1
   inputs:
-    targetPath: '$(Pipeline.Workspace)'
-    artifact: 'LinuxProject'
-  displayName: 'Publish Artifacts'
+    targetPath: '$(Pipeline.Workspace)/final_report_*.txt'
+    artifact: 'SecurityReports'
+    publishLocation: 'pipeline'
+  displayName: 'Publish Audit Reports'
