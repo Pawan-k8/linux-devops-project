@@ -19,6 +19,6 @@ steps:
 
 - task: PublishPipelineArtifact@1
   inputs:
-    targetPath: '$(Pipeline.Workspace)'
-    artifact: 'LinuxProject'
-  displayName: 'Publish Artifacts'
+    targetPath: '$(System.DefaultWorkingDirectory)/backups'
+    artifact: 'Backups'
+    publishLocation: 'pipeline'
