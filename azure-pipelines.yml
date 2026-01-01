@@ -10,8 +10,8 @@ steps:
 
 - script: |
     echo "Security Scan: Check permissions"
-    find . -type f -not -perm 644 -exec ls -la {} ; 2>/dev/null || true
-    echo "Disk audit from Linux project:"
+    find . -type f ! -perm 644 -exec ls -la {} ; 2>/dev/null || true
+    echo "Disk audit from Linux project."
     cat final_report_*.txt | head -10
   displayName: 'Run Linux Security Audit'
 
