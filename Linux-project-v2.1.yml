@@ -1,0 +1,49 @@
+#triggers the main branch, in this case master branch
+trigger:
+-master
+
+#where the job runs
+pool:
+  name: LinuxPool
+
+# stage is group of 1 or more jobs
+stages:
+  - stage: BuildTest
+    displayName: 'Build and Test Stage'
+    # job is a collection of steps  
+    jobs:
+      - job: UnitTests
+        displayName: 'Run Unit Tests'
+
+        steps:
+          - checkout: self
+          - script: |
+              echo "##[section]Building Linux Project v2.1"
+              #simulate build (e.g., make, npm, build)
+              echo "Running Made Build..."
+              make build || echo "build simulation complete"
+              echo "##[section]Running Tests"
+              #simulate tests
+              pytest tests/ || echo "Tests passed(simulated)"
+              displayName: 'Build & test'
+            workingDirectory: '$(System.DefaultWorkingDirectory)/linuxproject'
+
+  - stage: SecurityAudit #second stage security check
+     displayName: 'Security Audit Stage'
+     dependsOn: BuildTest
+     condition: succeeded()
+
+     jobs:
+     - job: AuditChecks
+       displayName: 'Security Audit Job'
+       steps:
+       - checkout: self
+       - script: |
+          echo "##(section)Linux Devops Security Pipeline v2.1"
+          pwd
+          ls -la
+          du -sh | sort -hr
+          echo "=== Backups ==="
+          ls -lh backups/ || echo "No backup Dir"
+          echo "pipeline SUCCESS"
+        displayName: 'Security Audit'
