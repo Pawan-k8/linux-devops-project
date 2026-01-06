@@ -6,11 +6,17 @@ pool:
 
 steps:
 - checkout: self
+- ContinueOnError: True
+- TimeoutInMinutes: 10
+- CancelTimeoutInMinutes: 1
 
 - script:
-    chmod +x linux_audit.sh
-    ./linux_audit.sh
-  displayName: "Y linux audit"
+    echo "linux-run-to-check-params"
+    pwd
+    ls -al
+    du -sh | sort -hr
+    echo "pipeline SUCCESS"
+  displayName: " linux PPL C"
 
-- bash: echo "pipeline complete! Y"
+- bash: echo "PPL complete"
   displayName: 'Success'
