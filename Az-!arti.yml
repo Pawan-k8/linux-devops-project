@@ -22,5 +22,4 @@ jobs:
     displayName: " linux PPL C"
 
   - bash: echo "PPL complete"
-    displayName: 'Success'
-
+    displayName: 'Success!'
