@@ -14,6 +14,10 @@ steps:
     du -sh * | sort -hr
     echo "=== Backups ==="
     ls -lh backups/
+
+    echo "running simple vulnerability scan..."
+    grep -r "vulnerability" . || echo "No files contain the word 'vulnerability'"
+    
     echo "Pipeline SUCCESS!"
   displayName: 'Security Audit'
 
