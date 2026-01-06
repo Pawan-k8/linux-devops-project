@@ -2,7 +2,7 @@ trigger:
 -master
 
 pool:
-  name: LinuxPool
+  vmImage: 'ubuntu-latest'
 
 jobs:
 - job: Build
