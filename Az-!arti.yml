@@ -1,0 +1,16 @@
+trigger:
+-master
+
+pool:
+  name: LinuxPool
+
+steps:
+- checkout: self
+
+- script:
+    chmod +x linux_audit.sh
+    ./linux_audit.sh
+  displayName: "Y linux audit"
+
+- bash: echo "pipeline complete! Y"
+  displayName: 'Success'
