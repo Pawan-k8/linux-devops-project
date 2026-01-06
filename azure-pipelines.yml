@@ -3,22 +3,3 @@ trigger:
 
 pool:
   name: LinuxPool
-
-steps:
-- checkout: self
-
-- script: |
-    echo "##[section]Linux DevOps Security Pipeline"
-    pwd
-    ls -la
-    du -sh * | sort -hr
-    echo "=== Backups ==="
-    ls -lh backups/
-    echo "Pipeline SUCCESS!"
-  displayName: 'Security Audit'
-
-- task: PublishPipelineArtifact@1
-  inputs:
-    targetPath: '$(System.DefaultWorkingDirectory)/backups'
-    artifact: 'Backups'
-    publishLocation: 'pipeline'
