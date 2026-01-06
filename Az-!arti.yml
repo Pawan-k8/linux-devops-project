@@ -4,19 +4,22 @@ trigger:
 pool:
   name: LinuxPool
 
-steps:
-- checkout: self
-- ContinueOnError: True
-- TimeoutInMinutes: 10
-- CancelTimeoutInMinutes: 1
+jobs:
+- job: Build
+- timeoutInMinutes: 10
+- cancelTimeoutInMinutes: 1
 
-- script:
-    echo "linux-run-to-check-params"
-    pwd
-    ls -al
-    du -sh | sort -hr
-    echo "pipeline SUCCESS"
-  displayName: " linux PPL C"
+  steps:
+  - checkout: self
+  - continueOnError: true
+  
+  - script:
+      echo "linux-run-to-check-params"
+      pwd
+      ls -al
+      du -sh | sort -hr
+      echo "pipeline SUCCESS"
+    displayName: " linux PPL C"
 
-- bash: echo "PPL complete"
-  displayName: 'Success'
+  - bash: echo "PPL complete"
+    displayName: 'Success'
