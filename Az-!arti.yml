@@ -17,6 +17,7 @@ jobs:
       pwd
       ls -al
       du -sh | sort -hr
+      ls -lh
       echo "pipeline SUCCESS"
     displayName: " linux PPL C"
 
