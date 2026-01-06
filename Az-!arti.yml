@@ -6,12 +6,12 @@ pool:
 
 jobs:
 - job: Build
-- timeoutInMinutes: 10
-- cancelTimeoutInMinutes: 1
+  timeoutInMinutes: 10
+  cancelTimeoutInMinutes: 1
 
   steps:
   - checkout: self
-  - continueOnError: true
+    continueOnError: true
   
   - script:
       echo "linux-run-to-check-params"
