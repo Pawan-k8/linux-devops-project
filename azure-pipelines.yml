@@ -1,28 +1,30 @@
 trigger:
-- master
+- main
 
 pool:
-  name: LinuxPool
+  vmImage: 'ubuntu-latest'
+
+variables:
+  dockerRegistryServiceConnection: 'dockerhub-service-connection'  # ← YOUR EXACT NAME
 
 steps:
-- checkout: self
+- checkout: none  # Skip code checkout for pure test
 
 - script: |
-    echo "##[section]Linux DevOps Security Pipeline"
-    pwd
-    ls -la
-    du -sh * | sort -hr
-    echo "=== Backups ==="
-    ls -lh backups/
+    echo "=== Docker Connection Test ==="
+    docker --version
+    echo "Testing service connection: $(dockerRegistryServiceConnection)"
+  displayName: 'Setup Check'
 
-    echo "running simple vulnerability scan..."
-    grep -r "vulnerability" . || echo "No files contain the word 'vulnerability'"
-    
-    echo "Pipeline SUCCESS!"
-  displayName: 'Security Audit'
-
-- task: PublishPipelineArtifact@1
+- task: Docker@2
+  displayName: '🧪 Docker Login Test (MOCK)'
   inputs:
-    targetPath: '$(System.DefaultWorkingDirectory)/backups'
-    artifact: 'Backups'
-    publishLocation: 'pipeline'
+    command: 'login'
+    containerRegistry: $(dockerRegistryServiceConnection)
+  continueOnError: false
+
+- script: |
+    echo "✅ DOCKER HUB LOGIN SUCCESS!"
+    echo "Service connection is PERFECT ✅"
+    echo "Ready for full build/push pipeline!"
+  displayName: 'Connection Verified'
