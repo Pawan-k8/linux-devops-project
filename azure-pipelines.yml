@@ -21,6 +21,7 @@ steps:
     echo "Pipeline SUCCESS!"
   displayName: 'Security Audit'
 
+
 - task: PublishPipelineArtifact@1
   inputs:
     targetPath: '$(System.DefaultWorkingDirectory)/backups'
